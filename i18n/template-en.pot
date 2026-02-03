@@ -6243,3 +6243,12 @@ msgstr ""
 
 msgid "withdrawn"
 msgstr ""
+
+msgid "No text submitted"
+msgstr ""
+
+msgid "Enable candidate applications"
+msgstr ""
+
+msgid "Candidate applications are disabled for this meeting."
+msgstr ""
