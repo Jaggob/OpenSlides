@@ -64,6 +64,7 @@ services:
       - ../../openslides-client/client/src:/app/src
       - ../../openslides-client/client/cli:/app/cli
       - ../../openslides-client/packages/openslides-motion-diff/src:/packages/openslides-motion-diff/src
+      - ../../openslides-client/meta:/meta
 
   backend:
     build:
