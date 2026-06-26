@@ -1,15 +1,15 @@
 [submodule "openslides-client"]
 	path = openslides-client
-	url = https://github.com/OpenSlides/openslides-client.git
-	branch = main
+	url = https://github.com/Jaggob/openslides-client.git
+	branch = feature/vote
 [submodule "openslides-backend"]
 	path = openslides-backend
-	url = https://github.com/OpenSlides/openslides-backend.git
-	branch = main
+	url = https://github.com/Jaggob/openslides-backend.git
+	branch = feature/vote
 [submodule "openslides-autoupdate-service"]
 	path = openslides-autoupdate-service
-	url = https://github.com/OpenSlides/openslides-autoupdate-service.git
-	branch = main
+	url = https://github.com/Jaggob/openslides-autoupdate-service.git
+	branch = feature/vote
 [submodule "openslides-auth-service"]
 	path = openslides-auth-service
 	url = https://github.com/OpenSlides/openslides-auth-service.git
@@ -24,8 +24,8 @@
 	branch = main
 [submodule "openslides-vote-service"]
 	path = openslides-vote-service
-	url = https://github.com/OpenSlides/openslides-vote-service.git
-	branch = main
+	url = https://github.com/Jaggob/openslides-vote-service.git
+	branch = feature/vote
 [submodule "openslides-proxy"]
 	path = openslides-proxy
 	url = https://github.com/OpenSlides/openslides-proxy.git
@@ -34,10 +34,12 @@
 	url = https://github.com/OpenSlides/openslides-search-service.git
 [submodule "openslides-projector-service"]
 	path = openslides-projector-service
-	url = https://github.com/OpenSlides/openslides-projector-service.git
+	url = https://github.com/Jaggob/openslides-projector-service.git
+	branch = feature/vote
 [submodule "openslides-go"]
 	path = lib/openslides-go
-	url = https://github.com/OpenSlides/openslides-go.git
+	url = https://github.com/Jaggob/openslides-go.git
+	branch = feature/vote
 [submodule "openslides-cli"]
 	path = openslides-cli
 	url = https://github.com/OpenSlides/openslides-cli.git
